@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💡My notion <br>
+💜My Notion <br>
 https://amenable-shelf-49d.notion.site/98c800db253143adbff133b35cf06aca
 
 <!--
