@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+💡노션💡
+https://amenable-shelf-49d.notion.site/98c800db253143adbff133b35cf06aca
+
 <!--
 **Hyemin0102/Hyemin0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
