@@ -1,4 +1,8 @@
-### Hi there 👋
+### 안녕하세요 👋
+
+프론트엔드 개발자를 준비하며 공부하고있습니다!
+
+자세한 개발 기록은 Notion으로 놀러오세요:)
 
 💜My Notion <br>
 https://amenable-shelf-49d.notion.site/98c800db253143adbff133b35cf06aca
