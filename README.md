@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=100&section=header&text=%20%20Welcome%20to%20NINI%20WORLD%20💻%20%20&fontSize=20&textBg=true&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&customColorList=1,2,3,4,5,6,7,8&height=100&section=header&text=%20%Hi%20:&#41;%20Nice%20to%20meet%20you%20%20&fontSize=20&textBg=true&animation=fadeIn)
 
 ### 안녕하세요 👋
 
@@ -8,6 +8,8 @@
 
 <h3>💜My Notion</h3>
 https://amenable-shelf-49d.notion.site/NINI-WORLD-98c800db253143adbff133b35cf06aca?pvs=4
+<br/>
+
 <h3>🎨Portfolio</h3>
 https://frontend-portfolio-hm.netlify.app/
 <br/>
