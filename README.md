@@ -6,8 +6,10 @@
 
 자세한 개발 기록은 Notion으로 놀러오세요:)
 
-💜My Notion <br>
+<h3>💜My Notion</h3>
 https://amenable-shelf-49d.notion.site/NINI-WORLD-98c800db253143adbff133b35cf06aca?pvs=4
+<h3>🎨Portfolio</h3>
+https://frontend-portfolio-hm.netlify.app/
 <br/>
 <br/>
 <br/>
