@@ -32,7 +32,7 @@ https://frontend-portfolio-hm.netlify.app/
 <h4>✔Tool</h4>
 
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/visual studio code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-
+<br><br><br>
 <hr/>
 <h3>📝Studying...📝</h3>
  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
