@@ -32,7 +32,7 @@ https://frontend-portfolio-hm.netlify.app/
 </div>
 <div>
   <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/koa-33333D?style=flat&logo=koa&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/> 
 </div>
 <div>
  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
@@ -64,7 +64,7 @@ https://frontend-portfolio-hm.netlify.app/
 <div>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/koa-33333D?style=flat&logo=koa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/>
 </div>
 <br><br>
