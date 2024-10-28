@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&customColorList=1,2,3,4,5,6,7,8&height=200&section=header&text=%20%Hi%20:&#41;%20Nice%20to%20meet%20you%20%20&fontSize=30&textBg=true&animation=fadeIn)
 
 ### 안녕하세요 👋
 
